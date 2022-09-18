@@ -1,6 +1,7 @@
 # FLASK-landing-page
 
 A simple exercise with flask, bootstrap and pure javascript.
+
 ![gif](https://user-images.githubusercontent.com/58778570/190927420-885443be-e1fe-4942-8892-69ba3b50e2c3.gif)
 
 ## Start 🏁
