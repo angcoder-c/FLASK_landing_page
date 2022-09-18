@@ -1,5 +1,5 @@
 body {
-    text-align: -moz-center;
+    text-align: center;
 }
 .nav-link, .navbar-brand{
     color: #ffc107;
@@ -23,7 +23,7 @@ h1, h3{
 hr {
     width: 60%;
     border: 3px solid #ffc107;
-    align: center;
+    margin: auto;
 }
 
 
