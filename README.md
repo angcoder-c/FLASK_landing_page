@@ -7,7 +7,7 @@ A simple exercise with flask, bootstrap and pure javascript.
 ## Start 🏁
 Clone the repository.
 ```
-$ git clone https://github.com/Angel-Gabriel-Chavez/FLASK_landing_page.git
+$ git clone https://github.com/angcoder-c/FLASK_landing_page.git
 ```
 Create the virtual environment, and activate it.
 ```
